@@ -1,0 +1,21 @@
+{
+  "name": "new-ranking",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "mongoose": "^5.10.15",
+    "noblox.js": "^4.8.4",
+    "wokcommands": "^1.1.3"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
+}
